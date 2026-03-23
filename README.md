@@ -11,7 +11,7 @@ TabSwitch replaces the mental friction of hunting through dozens of tiny browser
 
 > **Demo:**
 
-<video src="https://video.gumlet.io/69b6a7d5bf83f6c336e4bc23/69c0a5c1c98b51e9c54c0990/download.mp4" width="100%" autoplay loop muted playsinline></video>
+<video>https://github.com/user-attachments/assets/99794257-2eac-4659-bc04-0a2777856d24</video>
 
 ## 🧠 The Problem & The Solution
 

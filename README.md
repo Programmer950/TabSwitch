@@ -9,7 +9,17 @@ A lightning-fast, privacy-first visual tab manager for Chromium browsers.
 
 TabSwitch replaces the mental friction of hunting through dozens of tiny browser tabs with a clean, searchable, visual grid overlay. Built for speed and productivity, it operates entirely locally with zero telemetry.
 
-> **Demo:** https://video.gumlet.io/69b6a7d5bf83f6c336e4bc23/69b6a896bf83f6c336e4c8c8/main.m3u8
+> **Demo:**
+
+<div style="position:relative;aspect-ratio:240/127;">
+      <iframe
+            loading="lazy" title="Gumlet video player"
+            src="https://play.gumlet.io/embed/69b6a896bf83f6c336e4c8c8?background=false&autoplay=true&loop=true&disable_player_controls=true"
+            style="border:none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
+          referrerpolicy="origin"
+          allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture; fullscreen;">
+          </iframe>
+    </div>
 
 ## 🧠 The Problem & The Solution
 

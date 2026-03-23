@@ -9,7 +9,7 @@ A lightning-fast, privacy-first visual tab manager for Chromium browsers.
 
 TabSwitch replaces the mental friction of hunting through dozens of tiny browser tabs with a clean, searchable, visual grid overlay. Built for speed and productivity, it operates entirely locally with zero telemetry.
 
-> **Demo:** [Insert a 5-10 second GIF here showing Alt+Q and searching for a tab]
+> **Demo:** https://video.gumlet.io/69b6a7d5bf83f6c336e4bc23/69b6a896bf83f6c336e4c8c8/main.m3u8
 
 ## 🧠 The Problem & The Solution
 

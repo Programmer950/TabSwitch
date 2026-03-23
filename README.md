@@ -11,13 +11,13 @@ TabSwitch replaces the mental friction of hunting through dozens of tiny browser
 
 > **Demo:**
 
-      <iframe
-            loading="lazy" title="Gumlet video player"
-            src="https://play.gumlet.io/embed/69b6a896bf83f6c336e4c8c8?background=false&autoplay=true&loop=true&disable_player_controls=true"
-            style="border:none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
-            referrerpolicy="origin"
-            allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture; fullscreen;">
-      </iframe>
+<video
+      loading="lazy" title="Gumlet video player"
+      src="https://play.gumlet.io/embed/69b6a896bf83f6c336e4c8c8?background=false&autoplay=true&loop=true&disable_player_controls=true"
+      style="border:none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
+      referrerpolicy="origin"
+      allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture; fullscreen;">
+</video>
 
 ## 🧠 The Problem & The Solution
 

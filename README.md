@@ -69,3 +69,6 @@ Want to build on top of TabSwitch or see how it works under the hood?
 
 🔒 **Privacy Policy**
 TabSwitch respects user data. It requests the tabs and <all_urls> permissions strictly to read your current session's tab titles, URLs, and to generate the local visual grid. No data is collected, transmitted, or stored off-device. For more info visit **[privacy policy](https://programmer950.github.io/privacy.html)**.
+
+📄 License
+Distributed under the MIT License. See **LICENSE** for more information.

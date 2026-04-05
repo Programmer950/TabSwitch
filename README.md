@@ -1,6 +1,6 @@
 # 🔄 TabSwitch
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Pending_Review-blue?logo=googlechrome&logoColor=white)](#)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-_Published-green?logo=googlechrome&logoColor=white)](#)
 [![Tech Stack](https://img.shields.io/badge/Built_with-React_%7C_Vite_%7C_WXT-000000?logo=react)](https://wxt.dev)
 [![Privacy](https://img.shields.io/badge/Privacy-100%25_Local-brightgreen)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
